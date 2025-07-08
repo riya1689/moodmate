@@ -1,12 +1,21 @@
-# React + Vite
+# MoodMate (React + Vite Project) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**MoodMate** is a lightweight, client-side mood detection project that analyzes user input and responds with a mood classification — Positive, Negative. It also features voice feedback to read out the detected mood using the browser's built-in speech synthesis.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Detects mood from user input (positive, negative, or neutral)
+- Voice feedback using Web Speech API
+- Entirely client-side – no backend or external API used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+- Frontend: React.js with Vite (for faster development and build performance),JavaScript
+- Styling: Tailwind CSS
+
+## Preview
+![MoodMate Preview](./C:\Users\Riya\Desktop\moodmate\moodmate_img\moodmate_ss.png)
+
