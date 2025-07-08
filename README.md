@@ -17,5 +17,5 @@
 - Styling: Tailwind CSS
 
 ## Preview
-![MoodMate Preview](./C:\Users\Riya\Desktop\moodmate\moodmate_img\moodmate_ss.png)
+![MoodMate Preview](./moodmate_ss.png)
 
